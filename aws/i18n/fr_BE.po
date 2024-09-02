@@ -1,0 +1,265 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* aws
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0-20240819\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-02 00:15+0000\n"
+"PO-Revision-Date: 2024-09-02 00:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "01234567890"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.explore_services
+msgid "AMAZON SERVICES"
+msgstr "SERVICES AMAZON"
+
+#. module: aws
+#: model:ir.ui.menu,name:aws.aws_root_menu
+msgid "AWS services"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "About Us"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Contact Us"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__description
+msgid "Description"
+msgstr "Description"
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__description_service
+msgid "Description Service"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Follow us"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Home"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__id
+msgid "ID"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__image
+msgid "Image"
+msgstr "Image"
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Legal"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Location 1"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Location 2"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Location 3"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Location 4"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Location 5"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Location 6"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, \n"
+"                            sed do eiusmod tempor incididunt ut labore et dolore magna \n"
+"                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation \n"
+"                            ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.explore_services
+msgid ""
+"Lorem ipsum is placeholder text commonly used in the graphic, \n"
+"                      print, and publishing industries for <br/>previewing layouts and visual mockups."
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields.selection,name:aws.selection__aws_services__description__cat4
+msgid "Ml or AI"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__name
+msgid "Name"
+msgstr "Nom"
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Newsletter"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.actions.act_window,help:aws.aws_service_action
+msgid "No Cities yet!"
+msgstr "il n'y a pas "
+
+#. module: aws
+#: model_terms:ir.actions.act_window,help:aws.aws_service_action
+msgid "Please add a new city!"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Products"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Quick Links"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Recipient's username"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Services"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Submit"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_header
+msgid "Toggle navigation"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Top Locations"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "Your email"
+msgstr ""
+
+#. module: aws
+#: model:ir.model,name:aws.model_aws_services
+msgid "Your services"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_snippets
+msgid "aws services"
+msgstr ""
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_snippets
+msgid "aws, explore"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields.selection,name:aws.selection__aws_services__description__cat3
+msgid "compute"
+msgstr "calcule"
+
+#. module: aws
+#: model_terms:ir.ui.view,arch_db:aws.custom_footer
+msgid "info@youremail.com"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields.selection,name:aws.selection__aws_services__description__cat2
+msgid "serverles"
+msgstr "sans serveur"
+
+#. module: aws
+#: model:ir.model.fields,field_description:aws.field_aws_services__service_id
+msgid "service ID"
+msgstr "ID du service"
+
+#. module: aws
+#: model:ir.actions.act_window,name:aws.aws_service_action
+#: model:ir.ui.menu,name:aws.service_menu
+#: model_terms:ir.ui.view,arch_db:aws.aws_services_form_view
+#: model_terms:ir.ui.view,arch_db:aws.aws_services_tree_view
+msgid "services"
+msgstr ""
+
+#. module: aws
+#: model:ir.model.fields.selection,name:aws.selection__aws_services__description__cat1
+msgid "storage"
+msgstr "stockage"

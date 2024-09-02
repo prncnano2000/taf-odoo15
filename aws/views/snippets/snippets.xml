@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="custom_snippets" inherit_id="website.snippets" name="Custom Snippets">
+    <xpath expr="//div[@id='snippet_structure']" position="before">
+        <div id="snippet_structure" class="o_panel">
+            <div class="o_panel_header">aws services</div>
+            <div class="o_panel_body">
+                <!-- ... -->
+                <t t-snippet="aws.explore_services" t-thumbnail="/aws/static/src/img/snippets/city1.png">
+                    <keywords>aws, explore</keywords>
+                </t>
+            </div>
+        </div>
+    </xpath>
+</template>
+</odoo>
